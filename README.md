@@ -4,7 +4,7 @@
 
 r495.2 stable
 
-An empty Construct 3 project, saved as a folder project.
+An empty [Construct 3](https://editor.construct.net/) ([affiliate link](https://www.construct.net/a/260259?t=construct3)) project, saved as a folder project.
 
 ## Use
 
